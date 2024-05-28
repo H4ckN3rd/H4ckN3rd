@@ -48,11 +48,15 @@
 </p>
 
 <h3 align="center">GitHub Stats</h3>
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatink2004&show_icons=true&theme=radical" alt="jatink2004" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatink2004&theme=radical" alt="jatink2004" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatink2004&layout=compact&theme=radical" alt="jatink2004" />
-</div>
+</p>
 
 ---
 
