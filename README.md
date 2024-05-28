@@ -19,7 +19,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/jatin-kumar" target="_blank">
+  <a href="https://www.linkedin.com/in/jatin-kumar-b32274252/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin kumar" height="30" width="40" />
   </a>
   <a href="https://instagram.com/jatin_dot_exe" target="_blank">
