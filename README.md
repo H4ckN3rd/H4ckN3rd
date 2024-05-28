@@ -66,6 +66,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatink2004&layout=compact&theme=radical" alt="jatink2004" />
 </p>
 
+<h3 align="center">😂Random Dev Memes</h3>
+<p align="center">
+  <img src="https://memer-new.vercel.app/" alt="Random Dev Meme" style="height: 400px;" />
+</p>
+
+
 ---
 
 <p align="center">
@@ -73,3 +79,4 @@
     <img src="https://img.shields.io/github/followers/jatink2004?label=Follow&style=social" alt="GitHub Follow" />
   </a>
 </p>
+
