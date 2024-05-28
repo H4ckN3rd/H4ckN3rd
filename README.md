@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
+
+![image](https://github.com/jatink2004/jatink2004/blob/21d0bf1ae70d86eb0b31f222c663fb42cc2a3b4b/Images/eb50875a68b04b0480fa929af2c7547c.gif)
+
 <h3 align="center">🎓 Computer Science student specializing in Cyber Security</h3>
 <h3 align="center">💼 Aspiring Cyber Security Professional</h3>
 
