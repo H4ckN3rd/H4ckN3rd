@@ -8,10 +8,6 @@
 <h3 align="center">💼 Aspiring Cyber Security Professional</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatink2004&label=Profile%20views&color=0e75b6&style=flat" alt="jatink2004" />
-</p>
-
-<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jatink2004&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="jatink2004" />
   </a>
@@ -66,10 +62,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatink2004&layout=compact&theme=radical" alt="jatink2004" />
 </p>
 
-<h3 align="center">😂Random Dev Memes</h3>
-<p align="center">
-  <img src="https://memer-new.vercel.app/" alt="Random Dev Meme" style="height: 400px;" />
-</p>
 
 
 ---
@@ -78,5 +70,8 @@
   <a href="https://github.com/jatink2004">
     <img src="https://img.shields.io/github/followers/jatink2004?label=Follow&style=social" alt="GitHub Follow" />
   </a>
+  
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatink2004&label=Profile%20views&color=0e75b6&style=flat" alt="jatink2004" />
+</p>
