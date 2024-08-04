@@ -3,7 +3,6 @@
 <h3 align="center">🎓 Computer Science student specializing in Cyber Security</h3>
 <h3 align="center">💼 Aspiring Cyber Security Professional</h3>
 
-<h3 align="center">GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatink2004&show_icons=true&theme=radical" alt="jatink2004" />
 </p>
