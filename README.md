@@ -7,23 +7,15 @@
 <h3 align="center">🎓 Computer Science student specializing in Cyber Security</h3>
 <h3 align="center">💼 Aspiring Cyber Security Professional</h3>
 
+<h3 align="center">GitHub Stats</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jatink2004&theme=algolia&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="jatink2004" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=jatink2004&show_icons=true&theme=radical" alt="jatink2004" />
 </p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jatin-kumar-b32274252/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin kumar" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/jatin_dot_exe" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin_dot_exe" height="30" width="40" />
-  </a>
- <a href="https://medium.com/@Kumar.jatin" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kumar.jatin" height="30" width="40" />
- </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatink2004&theme=radical" alt="jatink2004" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatink2004&layout=compact&theme=radical" alt="jatink2004" />
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -51,18 +43,19 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatink2004&show_icons=true&theme=radical" alt="jatink2004" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatink2004&theme=radical" alt="jatink2004" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatink2004&layout=compact&theme=radical" alt="jatink2004" />
-</p>
 
-
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jatin-kumar-b32274252/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jatin kumar" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/jatin_dot_exe" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatin_dot_exe" height="30" width="40" />
+  </a>
+ <a href="https://medium.com/@Kumar.jatin" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kumar.jatin" height="30" width="40" />
+ </a>
+</p>
 
 ---
 
