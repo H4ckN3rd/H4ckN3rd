@@ -4,13 +4,13 @@
 <h3 align="center">💼 Aspiring Cyber Security Professional</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatink2004&show_icons=true&theme=radical" alt="jatink2004" />
+  <img src="https://github-readme-stats.vercel.app/api?username=H4ckN3rd&show_icons=true&theme=radical" alt="H4ckN3rd" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatink2004&theme=radical" alt="jatink2004" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckN3rd&theme=radical" alt="H4ckN3rd" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatink2004&layout=compact&theme=radical" alt="jatink2004" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4ckN3rd&layout=compact&theme=radical" alt="H4ckN3rd" />
 </p>
 
 <div align="center">
@@ -60,11 +60,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/jatink2004">
-    <img src="https://img.shields.io/github/followers/jatink2004?label=Follow&style=social" alt="GitHub Follow" />
+  <a href="https://github.com/H4ckN3rd">
+    <img src="https://img.shields.io/github/followers/H4ckN3rd?label=Follow&style=social" alt="GitHub Follow" />
   </a>
   
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jatink2004&label=Profile%20views&color=0e75b6&style=flat" alt="jatink2004" />
+  <img src="https://komarev.com/ghpvc/?username=H4ckN3rd&label=Profile%20views&color=0e75b6&style=flat" alt="H4ckN3rd" />
 </p>
