@@ -4,7 +4,7 @@
 <h3 align="center">💼 Aspiring Cyber Security Professional</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=H4ckN3rd&show_icons=true&theme=radical" alt="H4ckN3rd" />
+  <img src="https://github-readme-stats.vercel.app/api?username=H4ckN3rd&theme=radical&show_icons=true&hide_border=false&count_private=true" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckN3rd&theme=radical" alt="H4ckN3rd" />
