@@ -10,7 +10,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=H4ckN3rd&theme=github_dark" alt="H4ckN3rd" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4ckN3rd&layout=donut&theme=github_dark&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=H4ckN3rd&layout=compact&theme=github_dark&cache_seconds=1800" />
 </p>
 
 
