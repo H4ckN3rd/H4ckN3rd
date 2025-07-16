@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin</h1>
 
-<h3 align="center">🎓 Computer Science student specializing in Cyber Security</h3>
+<h3 align="center">🎓 Computer Science student specializing in CyberSecurity & DevOps</h3>
 <h3 align="center">💼 Aspiring Cyber Security Professional</h3>
 
 <p align="center">
